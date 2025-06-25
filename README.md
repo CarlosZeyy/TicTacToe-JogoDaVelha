@@ -46,7 +46,7 @@ O principal objetivo foi didático: servir como um exemplo prático e interativo
 
 ## 📸 Mais Screenshots
 
-| Tela Inicial e Placar | Durante a Partida | Vitória do Jogador 'X' |
+| Tela Inicial e Placar | Durante a Partida | Vitória do Jogador 'O' |
 | :---: | :---: | :---: |
 | <img src="https://i.ibb.co/rRMwRyXh/Print-Tic-Tac-Toe2.png" width="350" alt="Tela inicial com placar"> | <img src="https://i.ibb.co/TDKKXGYb/Print-Tic-Tac-Toe3.png" width="350" alt="Jogo em andamento"> | <img src="https://i.ibb.co/x8f9CQCG/Print-Tic-Tac-Toe4.png" width="350" alt="Tela de vitória do jogador X"> |
 
